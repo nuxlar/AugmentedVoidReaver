@@ -1,0 +1,9 @@
+﻿{
+	"name": "AugmentedVoidReaver",
+	"version_number": "2.0.0",
+	"website_url": "",
+	"description": "REWORKED. Buffs Void Reavers to make them more of a threat.",
+	"dependencies": [
+		"RiskofThunder-R2API_ContentManagement-1.0.1"
+	]
+}

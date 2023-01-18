@@ -1,9 +1,7 @@
 using BepInEx;
-using BepInEx.Configuration;
 using RoR2;
 using RoR2.Skills;
 using RoR2.CharacterAI;
-using RoR2.Projectile;
 using R2API;
 using R2API.Utils;
 using EntityStates;

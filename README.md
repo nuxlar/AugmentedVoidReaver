@@ -1,6 +1,6 @@
 # Augmented Void Reavers
 
-Makes Void Reavers more threatening by adding a "new" primary and applying nullify quicker. Each stack of nullify applied applies another stack so if you're hit by 2 bubbles you're rooted. Changed some AI values so visions fire at medium range, portalbomb fires at close and long range.
+Makes Void Reavers more threatening by adding a "new" primary, enhanced secondary, and tweaked AI. Visions fire at medium range, portalbomb fires at close and long range.
 
 Kit:
   - Primary Visions of the Void (its just visions of heresy with 3 stacks instead of 12)
